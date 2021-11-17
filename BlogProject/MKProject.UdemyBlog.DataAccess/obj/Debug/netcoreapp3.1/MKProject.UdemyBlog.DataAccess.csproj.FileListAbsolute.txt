@@ -1,0 +1,15 @@
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.DataAccess\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.Entities.dll
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.DataAccess\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.DataAccess.csprojAssemblyReference.cache
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.DataAccess\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.DataAccess.AssemblyInfoInputs.cache
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.DataAccess\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.DataAccess.AssemblyInfo.cs
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.DataAccess\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.DataAccess.deps.json
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.DataAccess\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.DataAccess.runtimeconfig.json
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.DataAccess\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.DataAccess.runtimeconfig.dev.json
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.DataAccess\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.DataAccess.dll
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.DataAccess\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.DataAccess.pdb
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.DataAccess\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.Entities.pdb
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.DataAccess\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.DataAccess.csproj.CoreCompileInputs.cache
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.DataAccess\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.DataAccess.csproj.CopyComplete
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.DataAccess\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.DataAccess.dll
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.DataAccess\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.DataAccess.pdb
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.DataAccess\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.DataAccess.genruntimeconfig.cache

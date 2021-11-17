@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MKProject.UdemyBlog.Entities/1.0.0": {
+        "runtime": {
+          "MKProject.UdemyBlog.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MKProject.UdemyBlog.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Entities\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.Entities.deps.json
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Entities\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.Entities.dll
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Entities\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.Entities.pdb
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Entities\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.Entities.csprojAssemblyReference.cache
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Entities\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.Entities.AssemblyInfoInputs.cache
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Entities\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.Entities.AssemblyInfo.cs
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Entities\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.Entities.csproj.CoreCompileInputs.cache
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Entities\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.Entities.dll
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Entities\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.Entities.pdb

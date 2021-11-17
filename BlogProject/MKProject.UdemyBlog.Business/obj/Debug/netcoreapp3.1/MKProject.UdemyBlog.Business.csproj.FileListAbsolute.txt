@@ -1,0 +1,14 @@
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Business\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.Business.deps.json
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Business\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.Business.dll
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Business\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.Business.pdb
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Business\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.DataAccess.dll
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Business\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.Entities.dll
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Business\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.DataAccess.pdb
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Business\bin\Debug\netcoreapp3.1\MKProject.UdemyBlog.Entities.pdb
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Business\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.Business.csprojAssemblyReference.cache
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Business\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.Business.AssemblyInfoInputs.cache
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Business\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.Business.AssemblyInfo.cs
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Business\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.Business.csproj.CoreCompileInputs.cache
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Business\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.Business.csproj.CopyComplete
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Business\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.Business.dll
+F:\YazilimGelistirme\UdemyProject\UdemyBlog\MKProject.UdemyBlog.Business\obj\Debug\netcoreapp3.1\MKProject.UdemyBlog.Business.pdb
